@@ -1,8 +1,8 @@
 # 💻 **Mohammed Ayaan**  
 *BTech (AI/ML), PES University Bangalore (Expected 2027)*  
 
-![GitHub](https://github.com/ayaan-md-blr)  
-![LinkedIn](https://www.linkedin.com/in/md-ayaan-blr/)  
+[GitHub](https://github.com/ayaan-md-blr)  
+[LinkedIn](https://www.linkedin.com/in/md-ayaan-blr/)  
 
 ---
 
@@ -50,7 +50,7 @@ Web based application that stores personal expense data and creates viualization
 
 ## 🏆 Certifications  
 - **Python Programming - Infosys Springboard**  
-- **![Google Artificial Intelligence - Virtual Internship](https://www.cloudskillsboost.google/public_profiles/ffb6f85c-f55c-437f-8626-c706362e48ec)**  
+- **[Google Artificial Intelligence - Virtual Internship](https://www.cloudskillsboost.google/public_profiles/ffb6f85c-f55c-437f-8626-c706362e48ec)**  
 
 ---
 
